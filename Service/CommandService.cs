@@ -47,30 +47,6 @@ namespace Service
             return Platform.Adapt<PlatformReadDto>();
         }
 
-        //bool ICommandService.ExternalPlatformExist(int ExternelPlatformID)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-        //IEnumerable<global::Contracts.PlatformReadDto> ICommandService.GetAllPlatforms()
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-        //global::Contracts.CommandReadDto ICommandService.GetCommand(int platformId, int commandId)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-        //IEnumerable<global::Contracts.CommandReadDto> ICommandService.GetCommandsForPlatform(int platformId)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-        //bool ICommandService.PlatformExists(int platformId)
-        //{
-        //    throw new NotImplementedException();
-        //}
 
         bool ICommandService.SaveChanges()
         {

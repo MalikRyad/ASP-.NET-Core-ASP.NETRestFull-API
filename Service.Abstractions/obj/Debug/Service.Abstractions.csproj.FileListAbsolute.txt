@@ -1,0 +1,12 @@
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\bin\Debug\Service.Abstractions.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\bin\Debug\Service.Abstractions.pdb
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\bin\Debug\Contracts.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\bin\Debug\Microsoft.Analytics.Types.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\bin\Debug\Contracts.pdb
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\obj\Debug\Service.Abstractions.csproj.AssemblyReference.cache
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\obj\Debug\Service.Abstractions.csproj.CoreCompileInputs.cache
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\obj\Debug\Service.Abstractions.csproj.CopyComplete
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\obj\Debug\Service.Abstractions.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Service.Abstractions\obj\Debug\Service.Abstractions.pdb

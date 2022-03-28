@@ -1,0 +1,10 @@
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\bin\Debug\Domain.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\bin\Debug\Domain.pdb
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\bin\Debug\Microsoft.Analytics.Types.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\obj\Debug\Domain.dll
+D:\CodeSourceApplications\API\SimpleUnionAPIExemple\Domain\obj\Debug\Domain.pdb
